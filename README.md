@@ -27,6 +27,10 @@ Both are the object-oriented programming languages, but Java’s rich set of fun
 * Code compiled	                                 -------------         Compiled and interpreted
 * No database connectivity	              ----------------                Database connectivity supported
 
+Moving forward, this reference will take you through understanding Comments and Keywords, basic data types in Java, Java Array,Java String, Java Operators, Java If Else Statements, Java Loops, Java Methods, Classes and Objects. Further, it describes core concepts of Encapsulation, Inheritance, Polymorphism, Abstract class and Interface, Java Constructors, Static and Dynamic Binding. It comprises the implementation of ‘this’, ‘super’, ‘final’ and ‘static’ keywords in Java and their comparisons.
+
+Downcasting with ‘instanceof’ operator, Aggregation(HAS-A) and Composition, Java File I/O, Multithreading, Java Packages and Exception Handling are other significant topics you get familiar while enhancing your Java programming knowledge. Each topic is explained with suitable and elaborative, real-time examples that you can apply in your project.
+
 
 # Instructor:
 Naveen
