@@ -7,9 +7,26 @@ In this Java tutorial you will learn Java programming language to make your care
 https://intellipaat.com/post-graduate-certification-full-stack-web-development/
 
 # Java Tutorial Overview
-Widely considered as the most popular programming language underlying under almost every modern-day software application, Java has carved a niche for itself in the market place. Currently, Java is an inevitable requisite when it comes to IT. The average salary of a Java Specialist is around ₹146,000.
+Widely considered as the most popular programming language underlying under almost every modern-day software application, Java has carved a niche for itself in the market place. Besides IT projects, Java has utility in mobile app development and gaming applications. Having Java programming skills and Java Certification, you can certainly see yourself in a challenging, competitive and growth-oriented working environment. It is an essential and vital programming language, which once mastered, let you easily and quickly understand other object-oriented platforms. Although there had been times when Java experienced a slowdown, it instantly took on grips with Android app development.
 
-This Java tutorial is an introduction to help you learn Java which is a very versatile language. According to Forbes, Java is one of the best programming languages to get a job at a big software company. This programming language can fetch you a job in top MNC companies like Google and Microsoft. As per Glassdoor, the average salary of a Java developer is $88,000 per annum. Java is one such open-source, programming language that can let you create amazing and rational applications for business and entertainment purposes. It is certainly a versatile programming platform with a wide range of expressions, functions and methods.
+Here we have the list of topics if you want to jump right into a specific one:
+* Why Java programmers are in demand?
+* C++ vs Java?
+
+# Why Java programmers are in demand?
+* Despite having so many languages for creating applications and web development, Java programmers are always in demand. Read below to find out the reason behind this fact:
+* Java is guaranteed to be ‘write once and run everywhere’
+* Collection of objects invoking each other’s methods
+* A case sensitive language which makes it take different meanings for the same word typed differently.
+
+Both are the object-oriented programming languages, but Java’s rich set of functionalities has made it overrule C++. Want to know how?
+
+   # Java	                   -----------------------                                 # C++
+* Built-in functionality to support threads ---------------     Does not support threads
+* Successor of C(syntax), and C++	                 ------------       Successor of C
+* Code compiled	                                 -------------         Compiled and interpreted
+* No database connectivity	              ----------------                Database connectivity supported
+
 
 # Instructor:
 Naveen
